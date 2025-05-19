@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="3b034ae3-d260-4a73-b10f-9e954489d19d">
+  <stat_objects>
+    <stat_object color="#FF008080" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_0" />
+        <field name="UUID" type="IdTableFieldDefinition" value="54c688d8-f4b4-4c5f-b2f5-e2192833ad16" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="bb9da121-e118-c9cf-54d4-26ed29bd8223" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h0c1d936egbe87g461dg7f52g17a8141b4927" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="dbbffa11-ab33-45df-b903-b3cad4d597ae" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="f426d934-c2d7-2c22-6ed9-2f3677ca2b02" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h74056d7fg473eg83bag1dbag8688f7d6996e" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF4682B4" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="642ca89e-222f-4632-9b1f-c46418f78e05" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Horns" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="4501f605-cd6f-c759-db3a-d6dc1fc96c1f" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha2732f3fgfd53g8db9g4674gb08c68540df4" version="2" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

@@ -1,0 +1,342 @@
+====================================================== 
+   BG3 MOD BACKUP DETAILED LOG - DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61 
+   Mon 05/19/2025  7:09:27.47 
+====================================================== 
+ 
+BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
+Backup folder: C:\GIT_BG3\MOD_REPOS\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61 
+ 
+[FILE COPYING REPORT] 
+====================================================== 
+SECTION 1: FILES FOUND 
+------------------------------------------------------------------------ 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\thumbnail.png 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61: 2 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\CharacterCreation\CharacterCreationAppearanceVisuals.tbl 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61: 1 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\mod_publish_logo.png 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\Localization\English\english.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61: 3 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\CharacterCreation\CharacterCreationAppearanceVisuals.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\Content\[PAK]_DGB_Wings_Extra_V2\4501f605-cd6f-c759-db3a-d6dc1fc96c1f.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\Content\[PAK]_DGB_Wings_Extra_V2\46158224-31e7-3527-6bff-e1d4e0c7dcde.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\Content\[PAK]_DGB_Wings_Extra_V2\92ce023f-9aaa-8d4c-5ba7-3a3d27619fec.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\Content\[PAK]_DGB_Wings_Extra_V2\bb9da121-e118-c9cf-54d4-26ed29bd8223.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\Content\[PAK]_DGB_Wings_Extra_V2\f426d934-c2d7-2c22-6ed9-2f3677ca2b02.lsf 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61: 6 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\AkELkA_DGB_Wings\Assets\Wings\Dragonborn\DGB_M_Aasimar_Wings_A_000_000.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\Assets\Buildings\Mindflayers\BLD_MF_Nautiloid_Parts_ABC\Resources\BLD_MFL_Nautiloid_Wing_Rigged_A_000_000_000.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\Assets\Characters\_Models\Humans\_FemaleStrong\Resources\HUM_FS_Wings.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\Assets\Characters\_Models\_Creatures\Deva\Deva_Selune\Resources\DEVA_HUM_F_Wings_000_000_000.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\Assets\Characters\_Models\_Creatures\Hollyphant\Resources\HPHANT_Wings_A_000_000_000.GR2 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61: 5 
+ 
+[LOG] Total files found across all folders: 17 
+ 
+SECTION 2: COPY OPERATIONS 
+------------------------------------------------------------------------ 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\Projects\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61 to Projects\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61 
+[DEBUG] Using destination: Projects\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:09:31 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\Projects\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		     697	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\meta.lsx100%  
+	    New File  		  347742	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\thumbnail.png100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         1         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :   340.2 k   340.2 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Monday, May 19, 2025 7:09:31 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\Editor\Mods\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61 to "Editor\Mods"\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61 
+[DEBUG] Using destination: Editor\Mods\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:09:32 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\Editor\Mods\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    3405	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\CharacterCreation\CharacterCreationAppearanceVisuals.tbl100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         5         5         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :     3.3 k     3.3 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Monday, May 19, 2025 7:09:32 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 1 
+[DEBUG] Successfully copied files: 1 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61: 
+      Total files: 1 
+      Copied successfully: 1 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\Mods\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61 to Mods\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61 
+[DEBUG] Using destination: Mods\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:09:34 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\Mods\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   12023	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\meta.lsx100%  
+	    New File  		  347742	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\mod_publish_logo.png100%  
+	    New File  		     504	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\Localization\English\english.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         3         3         1         0         0         0
+   Files :         3         3         0         0         0         0
+   Bytes :   351.8 k   351.8 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           180134500 Bytes/sec.
+   Speed :           10307.378 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:09:34 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 3 
+[DEBUG] Successfully copied files: 3 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61: 
+      Total files: 3 
+      Copied successfully: 3 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\Public\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61 to Public\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61 
+[DEBUG] Using destination: Public\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:09:36 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\Public\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    2527	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\CharacterCreation\CharacterCreationAppearanceVisuals.lsx  0%  100%  
+	    New File  		    2766	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\Content\[PAK]_DGB_Wings_Extra_V2\4501f605-cd6f-c759-db3a-d6dc1fc96c1f.lsf100%  
+	    New File  		    2719	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\Content\[PAK]_DGB_Wings_Extra_V2\46158224-31e7-3527-6bff-e1d4e0c7dcde.lsf100%  
+	    New File  		    2863	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\Content\[PAK]_DGB_Wings_Extra_V2\92ce023f-9aaa-8d4c-5ba7-3a3d27619fec.lsf100%  
+	    New File  		    2854	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\Content\[PAK]_DGB_Wings_Extra_V2\bb9da121-e118-c9cf-54d4-26ed29bd8223.lsf100%  
+	    New File  		    2857	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\Content\[PAK]_DGB_Wings_Extra_V2\f426d934-c2d7-2c22-6ed9-2f3677ca2b02.lsf100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         4         4         1         0         0         0
+   Files :         6         6         0         0         0         0
+   Bytes :    16.1 k    16.1 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :            16586000 Bytes/sec.
+   Speed :             949.058 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:09:36 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 6 
+[DEBUG] Successfully copied files: 6 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61: 
+      Total files: 6 
+      Copied successfully: 6 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\Generated\Public\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61 to "Generated\Public"\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61 
+[DEBUG] Using destination: Generated\Public\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:09:37 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\Generated\Public\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		  624308	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\AkELkA_DGB_Wings\Assets\Wings\Dragonborn\DGB_M_Aasimar_Wings_A_000_000.GR2100%  
+	    New File  		  317268	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\Assets\Buildings\Mindflayers\BLD_MF_Nautiloid_Parts_ABC\Resources\BLD_MFL_Nautiloid_Wing_Rigged_A_000_000_000.GR2100%  
+	    New File  		  268312	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\Assets\Characters\_Models\Humans\_FemaleStrong\Resources\HUM_FS_Wings.GR2100%  
+	    New File  		  287396	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\Assets\Characters\_Models\_Creatures\Hollyphant\Resources\HPHANT_Wings_A_000_000_000.GR2100%  
+	    New File  		  248592	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61\Assets\Characters\_Models\_Creatures\Deva\Deva_Selune\Resources\DEVA_HUM_F_Wings_000_000_000.GR2100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        21        21         1         0         0         0
+   Files :         5         5         0         0         0         0
+   Bytes :    1.66 m    1.66 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :            96993111 Bytes/sec.
+   Speed :            5549.990 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:09:37 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 5 
+[DEBUG] Successfully copied files: 5 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61: 
+      Total files: 5 
+      Copied successfully: 5 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+SECTION 3: FALLBACK COPY ATTEMPTS 
+------------------------------------------------------------------------ 
+ 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 1 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 3 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 6 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Wings_Extra_V2_f1ef46a0-1a61-7fc4-377c-d0df9a6f7a61 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 5 
+SECTION 4: FINAL SUMMARY 
+------------------------------------------------------------------------ 
+ 
+[SUMMARY] Total mod folders found: 1 
+[SUMMARY] Total files found: 17 
+[SUMMARY] Total files successfully copied: 34 
+ 
+[SUMMARY] All files were copied successfully 
+ 
+====================================================== 
